@@ -1,0 +1,31 @@
+[20:04:12] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[20:04:14] [ServerMain/INFO]: Loaded 1470 recipes
+[20:04:14] [ServerMain/INFO]: Loaded 1584 advancements
+[20:04:14] [Server thread/INFO]: Starting minecraft server version 1.21.11
+[20:04:14] [Server thread/INFO]: Loading properties
+[20:04:14] [Server thread/INFO]: Default game type: SURVIVAL
+[20:04:14] [Server thread/INFO]: Generating keypair
+[20:04:14] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:04:15] [Server thread/INFO]: Preparing level "Dominio Automata"
+[20:04:15] [Server thread/INFO]: Loading 0 persistent chunks...
+[20:04:15] [Server thread/INFO]: Preparing spawn area: 100%
+[20:04:15] [Server thread/INFO]: Time elapsed: 17 ms
+[20:04:15] [Server thread/INFO]: Done (0.566s)! For help, type "help"
+[20:04:16] [Server thread/INFO]: Server empty for 1 seconds, pausing
+[20:04:21] [User Authenticator #1/INFO]: UUID of player Yuusha_chan is 360163b2-0ef1-42be-aeac-bf807e7103ce
+[20:04:23] [Server thread/INFO]: Yuusha_chan[/100.77.132.126:64093] logged in with entity id 98 at (-3386.55619282776, 72.0, -491.26958065244287)
+[20:04:23] [Server thread/INFO]: Yuusha_chan joined the game
+[20:05:45] [Server thread/INFO]: Yuusha_chan lost connection: Disconnected
+[20:05:45] [Server thread/INFO]: Yuusha_chan left the game
+[20:05:46] [Server thread/INFO]: Server empty for 1 seconds, pausing
+[20:05:49] [Server thread/INFO]: Stopping the server
+[20:05:49] [Server thread/INFO]: Stopping server
+[20:05:49] [Server thread/INFO]: Saving players
+[20:05:49] [Server thread/INFO]: Saving worlds
+[20:05:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Dominio Automata]'/minecraft:overworld
+[20:05:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Dominio Automata]'/minecraft:the_end
+[20:05:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Dominio Automata]'/minecraft:the_nether
+[20:05:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (Dominio Automata): All chunks are saved
+[20:05:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20:05:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20:05:49] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
